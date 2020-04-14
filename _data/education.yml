@@ -7,8 +7,6 @@
     description: | # Include new lines to allow paragraphs
         Thesis: "Generic object-oriented models for the dynamic reconfiguration of protocol stacks in 3G and 4G networks"
 
-        I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
 -   layout: left
     name: Athens University of Economics and Business
     dates: 2000 - 2001
@@ -32,6 +30,6 @@
     dates: 1990 - 1995
     qualification: B.Sc. (Informatics)
     quote: >
-        
+
     description: | # Include new lines to allow paragraphs
         Thesis: “Performance analysis of Asynchronous Transfer Mode (ATM) campus networks”
