@@ -51,14 +51,14 @@
         -	Accountable for the R&D strategy in the Internet of Things (IoT) portfolio of technologies.
         -	Responsible for the scope, differentiators (USP) and market positioning of the AGT IoT Analytics (IOTA) cloud platform (https://www.agtinternational.com/iot-analytics/iot-analytics/).
         -	Market intelligence of M2M/IoT offerings (components, services and platforms), competition analysis (on IoT platforms), technology roadmap and development of R&D plan at tactical and strategic level, Unique Selling Proposition (USP) and value acquisition plan.
-        -	Achievement: C-level review/approval for go-to-market strategy for IOTA platform product leading to a re-positioning of AGT as an IoT Analytics company.
+        -	C-level review/approval for go-to-market strategy for IOTA platform product leading to a re-positioning of AGT as an IoT Analytics company.
         -	Responsible for the Edge Computing technology program (https://www.agtinternational.com/iot-analytics/iot-analytics/analytics-the-edge) of AGT R&D.
         -	Market analysis of Data Analytics and IoT Analytics offerings, analysis of partner (Cisco) platform plan, technology roadmap and development of R&D plan at tactical level, USP and onboarding strategy for application developer community.
-        -	Achievement: Edge Computing program for IoT Analytics at the Edge jointly with Cisco.
+        -	Edge Computing program for IoT Analytics at the Edge jointly with Cisco.
         -	Responsible for the end-to-end technology-to-product engineering pipeline (e.g., Agile, SCRUM) and the collaboration with the product architecture team to deliver product outline.
         -	Technology thought leadership and innovation management (Systematic Inventive Thinking methods, e.g., task unification)
         -	Active customer interface and market intelligence (e.g., market analysis, shaping solution and technology portfolio, strategic advisory, cross-unit coordination, etc.).
-        -	Achievement: Secured the VAVEL (4.1M€, ranked 1st) project under the EU H2020 framework.
+        -	Secured the VAVEL (4.1M€, ranked 1st) project under the EU H2020 framework.
 
 -   layout: left
     company: AGT International
@@ -70,12 +70,12 @@
     description: | # Include new lines to allow paragraphs
         Leading the transition of technological innovations from the R&D organization to the product organization and into customer projects.  Engaging multiple teams across the value chain (e.g., researchers, research architects, developers, product managers, customer liaisons, business heads, customer delegates, vendor staff, etc.) in end-to-end coherent programs.
         -	Accountable for managing technology transfer programs to deliver innovations to AGT products.
-        -	Achievement: Delivered “Data Analytics Architecture” project that spawned the AGT IoT Analytics platform (https://www.agtinternational.com/iot-analytics/iot-analytics/).
-        -	Achievement: Delivered “Integration of Cyber-Security into Smart Grid (SCADA) Substations” project to the AIMS-e product (https://www.agtinternational.com/areas-of-business-2/critical-assets/energy/capabilities/). Direct collaboration with Elenia (http://www.elenia.fi/) customer, a major Smart Grid operator in Finland.
-        -	Achievement: Delivered “Acoustic Analytics in Predictive Maintenance at Smart Grid Substations” project to the AIMS-e product (https://www.agtinternational.com/areas-of-business-2/critical-assets/energy/capabilities/). Direct collaboration with Elenia (http://www.elenia.fi/).
+        -	Delivered “Data Analytics Architecture” project that spawned the AGT IoT Analytics platform (https://www.agtinternational.com/iot-analytics/iot-analytics/).
+        -	Delivered “Integration of Cyber-Security into Smart Grid (SCADA) Substations” project to the AIMS-e product (https://www.agtinternational.com/areas-of-business-2/critical-assets/energy/capabilities/). Direct collaboration with Elenia (http://www.elenia.fi/) customer, a major Smart Grid operator in Finland.
+        -	Delivered “Acoustic Analytics in Predictive Maintenance at Smart Grid Substations” project to the AIMS-e product (https://www.agtinternational.com/areas-of-business-2/critical-assets/energy/capabilities/). Direct collaboration with Elenia (http://www.elenia.fi/).
         -	Responsible for working with business units and shaping selective parts of the R&D roadmap to their requirements. Coordination of technology management (e.g., roadmap planning, budgeting, resourcing, etc.) and product roadmap.
         -	Responsible for developing business processes for technology transfer across AGT.
-        -	Achievement: Established Change Management and Risk Management processes; approved at VP level and established to govern technology transfer organization.
+        -	Established Change Management and Risk Management processes; approved at VP level and established to govern technology transfer organization.
 
 -   layout: left
     company: AGT International
@@ -86,7 +86,7 @@
         Establishing internal standards and formalisms for product design and architecture development.
     description: | # Include new lines to allow paragraphs
         Working within the architecture group to define and roadmap the future technologies agenda for the platform offerings of AGT.
-        -	Achievement: Developed the system architecture (in UML notation per TOGAF) for the CityOS, a PaaS concept for a Smart City platform, which was approved at VP level.
+        -	Developed the system architecture (in UML notation per TOGAF) for the CityOS, a PaaS concept for a Smart City platform, which was approved at VP level.
 
 -   layout: left
     company: AGT International
@@ -94,12 +94,12 @@
     job_title: Senior Researcher
     dates: September 2011 - March 2012
     quote: >
-        TBD.
+
     description: | # Include new lines to allow paragraphs
         Working in Smart Home and Data Analytics project in the area of Smart Grid use cases, including regional generation and peer-to-peer energy trading and demand-response. Advancing the pilot portfolio of AGT in Demand Side Management (DSM) applications for the Smart Grid and contributing to Machine-to-Machine (M2M) projects for the Smart Metering Infrastructure (SMI).
         -	Responsible for developing the residential system architecture for the German BMWi Peer Energy Cloud (PEC) project (http://www.peerenergycloud.de/) according to (functional and non-functional) requirements of the Smart Grid. The platform comprised of an IEEE 802.15.4 wireless network segment of sensors recording the mount of energy consumed by residential appliances (e.g., toaster, refrigerator, etc.) and a gateway hosting the data collection and aggregation services along with the data analytics services. The last-mile platform was deployed at the Saarlouis area and several billion data points collected over a 3-year duration. In addition to the data analytics carried out by the gateways, end-to-end global data analytics were applied over all the data, to identify potential segments for Demand Response applications and to propose Demand Smoothing strategies.
         -	Responsible for evaluating Smart Grid use cases to management for project sign-off.
-        -	Achievement: Lead the platform design and development for the IoT Gateway (to the IEEE 802.15.4 WSN) and the IoT Backend (ESB middleware and SOA parts). These were deployed in the Saarlouis community (approximately 100 residences) to provide Smart Home and Data Analytics services and to integrate with the Smart Grid operator applications.
+        -	Lead the platform design and development for the IoT Gateway (to the IEEE 802.15.4 WSN) and the IoT Backend (ESB middleware and SOA parts). These were deployed in the Saarlouis community (approximately 100 residences) to provide Smart Home and Data Analytics services and to integrate with the Smart Grid operator applications.
         -	Responsible for developing and securing IPR material (e.g. patents) for AGT.
 
 -   layout: left
@@ -108,10 +108,9 @@
     job_title: Associate Professor
     dates: September 2009 - October 2010
     quote: >
-        TBD.
     description: | # Include new lines to allow paragraphs
-        -   Responsible for the undergraduate courses “Object-Oriented Programming”, “System Programming & Software Development Tools” (abstraction, encapsulation, generalization, composition, etc., design patterns, UML notation, etc.) & “Discrete & Symbolic Structures” (basics of logic, propositional logic, predicate logic, proof structures, etc.) at the Department of Electronic & Computer Engineering. Approximately 300 students per course.
-        -   Achievement: Extended and upgraded the course curriculum to include design patterns.
+        -   Responsible for the undergraduate courses “Object-Oriented Programming”, “System Programming and Software Development Tools” (abstraction, encapsulation, generalization, composition, etc., design patterns, UML notation, etc.) and “Discrete and Symbolic Structures” (basics of logic, propositional logic, predicate logic, proof structures, etc.) at the Department of Electronic and Computer Engineering. Approximately 300 students per course.
+        -   Extended and upgraded the course curriculum to include design patterns.
 
 -   layout: left
     company: University of the Aegean
@@ -119,9 +118,8 @@
     job_title: Lecturer
     dates: September 2007 - March 2008
     quote: >
-        TBD.
     description: | # Include new lines to allow paragraphs
-        -   Responsible for the postgraduate course “Reliability & Performance of Computational & Communication Systems” (probabilistic performance, statistical modeling, failure, recovery and redundancy models, etc.) at the Department of Information & Communication Systems Engineering. Approximately 60 students per course.
+        -   Responsible for the postgraduate course “Reliability and Performance of Computational and Communication Systems” (probabilistic performance, statistical modeling, failure, recovery and redundancy models, etc.) at the Department of Information and Communication Systems Engineering. Approximately 60 students per course.
 
 -   layout: left
     company: National and Kapodistrian University of Athens
@@ -129,11 +127,10 @@
     job_title: Consultant
     dates: July 2007 - December 2007
     quote: >
-        TBD.
     description: | # Include new lines to allow paragraphs
         -   Advising the Greek National Regulatory Authority on the nation-wide strategy for the development of broadband infrastructures and network applications.
         -   Edited, developed and published recommendations for a Working Group of the Greek National Regulatory Authority (EETT) addressing the efficient use of broadband in tertiary and higher tranches of the education sector. This work included a review of international experience and a summary of the lessons learnt in Member States of the European Union. The final recommendations were formulated in accordance to specific criteria regarding CAPEX/OPEX concerns.
-        -   Achievement: The recommendation was ratified in Greece by ministerial action in early 2012.
+        -   The recommendation was ratified in Greece by ministerial action in early 2012.
 
 -   layout: left
     company: National and Kapodistrian University of Athens
@@ -141,16 +138,15 @@
     job_title: Senior Researcher
     dates: July 2007 - September 2011
     quote: >
-        TBD.
     description: | # Include new lines to allow paragraphs
         Working in large-scale R&D projects (MOBIVAS, ANWIRE, GEANT-II, SELFNET) with multiple international partners (academia, network operators, service operators, equipment manufacturers, application providers, etc.) in gigabit networking and global wireless mobile systems (e.g., 3GPP, 3GPP2). Advancing the state-of-the-art in technologies for dynamic and flexible management of networks and services in a co-optimal manner. Contributing innovations in adaptable systems for software-defined networking, focusing on the area of on-demand network provisioning through dynamically adaptable protocol stacks.
         -	Responsible for developing mechanisms to support self-management in Future Internet systems.
-        -	Achievement: Designed, developed and validated the information model for a protocol composition framework. This work was demonstrated in the SELFNET project audit by the EC.
-        -	Achievement: Designed, developed and deployed a wireless test-bed for self-manageable networks. This work supported the demonstration facility during the SELFNET project audit by the EC.
+        -	Designed, developed and validated the information model for a protocol composition framework. This work was demonstrated in the SELFNET project audit by the EC.
+        -	Designed, developed and deployed a wireless test-bed for self-manageable networks. This work supported the demonstration facility during the SELFNET project audit by the EC.
         -	Accountable for defining functions to support self-optimization in the context of resource allocation in Future Internet wireless systems.
-        -	Achievement: Designed, developed and validated an OWL ontology to enable self-management of reconfigurable protocols in the Future Internet architecture. Prototype development was based on OSGi and integrated to the Protégé ontology development platform, using an SWRL engine and a DIG OWL-DL reasoner. The ontology and the prototype were demonstrated in the SELFNET project audit by the EC.
+        -	Designed, developed and validated an OWL ontology to enable self-management of reconfigurable protocols in the Future Internet architecture. Prototype development was based on OSGi and integrated to the Protégé ontology development platform, using an SWRL engine and a DIG OWL-DL reasoner. The ontology and the prototype were demonstrated in the SELFNET project audit by the EC.
         -	Responsible for defining Bandwidth Broker (BB) functions as part of the GEANT-II large-scale infrastructure project. Requirements specification and logical design of the functional architecture in UML (i.e., use cases diagrams, interaction diagrams, etc.).
-        -	Achievement: Defined the technology solution for the Bandwidth Broker (BB) based on the light path switching techniques over a DWDM wide-area network.
+        -	Defined the technology solution for the Bandwidth Broker (BB) based on the light path switching techniques over a DWDM wide-area network.
 
 -   layout: left
     company: National and Kapodistrian University of Athens
@@ -158,17 +154,16 @@
     job_title: Researcher
     dates: September 1999 - July 2007
     quote: >
-        TBD.
     description: | # Include new lines to allow paragraphs
         -	Accountable for the end-to-end project integration and the final audit demonstration in project MOBIVAS.
         -	Accountable for network configuration and provisioning mechanisms to support the on-demand (i.e., over-the-air) delivery of value-added services in mobile networks in project MOBIVAS.
-        -	Achievement: Developed the architecture for the value-added service provision platform.
-        -	Achievement: Designed, developed and deployed the prototype for the network provisioning module supporting the dynamic change management of data traffic handling policies (i.e., QoS classification and treatment, charging and accounting classification) in an integrated manner to 3rd party service provider operations in the value-added service store (e.g., deployment of service, activation/deactivation of service, removal of service, etc.). The design of the prototype adopted the principles of policy-based networking in an SDN paradigm, where the user plane elements effecting the data traffic treatment (e.g., DiffServ routers) are logically separate (i.e., interface to each other over IP) from the control plane elements determining what the appropriate treatment is for each kind of traffic. Traffic identification and treatment leveraged deep packet inspection capacity of the DiffServ router and employed protocol header information from the network, transport and application layers.
-        -	Achievement: Designed, developed, tested and validated the prototype platform for the dynamic reconfiguration of the DiffServ classifier and the IP accounting modules in a router, jointly with NEC Europe R&D.
-        -	Achievement: Designed and developed an information model and OWL ontology for the dynamic assembly of protocol layers into complete protocol stacks in Software Definable Networking (Ph.D. thesis).
+        -	Developed the architecture for the value-added service provision platform.
+        -	Designed, developed and deployed the prototype for the network provisioning module supporting the dynamic change management of data traffic handling policies (i.e., QoS classification and treatment, charging and accounting classification) in an integrated manner to 3rd party service provider operations in the value-added service store (e.g., deployment of service, activation/deactivation of service, removal of service, etc.). The design of the prototype adopted the principles of policy-based networking in an SDN paradigm, where the user plane elements effecting the data traffic treatment (e.g., DiffServ routers) are logically separate (i.e., interface to each other over IP) from the control plane elements determining what the appropriate treatment is for each kind of traffic. Traffic identification and treatment leveraged deep packet inspection capacity of the DiffServ router and employed protocol header information from the network, transport and application layers.
+        -	Designed, developed, tested and validated the prototype platform for the dynamic reconfiguration of the DiffServ classifier and the IP accounting modules in a router, jointly with NEC Europe R&D.
+        -	Designed and developed an information model and OWL ontology for the dynamic assembly of protocol layers into complete protocol stacks in Software Definable Networking (Ph.D. thesis).
         -	Analyzed the computational complexity of optimized end-to-end transport level connectivity in multi-homing mobile devices (i.e., the “Always Best Connected” problem). Designed and developed a generic UML 2 model in Rational Rose RealTime to study (i.e., sensitivity analysis, etc.) the “Always Best Connected” problem formulated as a traffic engineering optimization problem.
-        -	Achievement: Designed, developed and evaluated a generic framework in Java for dynamic class loading, unloading and reloading of object code based on design patterns (e.g., chain of command for cascading class loaders) and meta-programming techniques (e.g., reflection).
-        -	Achievement: Developed and contributed to successful funding proposals under the EU Framework Program 5/6/7 (MOBIVAS (3.9M€), ANWIRE (1.2M€), GEANT2 (180.0 M€), E2R (15.9M€), SELF-NET (3.7M€)).
+        -	Designed, developed and evaluated a generic framework in Java for dynamic class loading, unloading and reloading of object code based on design patterns (e.g., chain of command for cascading class loaders) and meta-programming techniques (e.g., reflection).
+        -	Developed and contributed to successful funding proposals under the EU Framework Program 5/6/7 (MOBIVAS (3.9M€), ANWIRE (1.2M€), GEANT2 (180.0 M€), E2R (15.9M€), SELF-NET (3.7M€)).
 
 -   layout: left
     company: BYTE Computer S.A.
@@ -192,4 +187,4 @@
     description: | # Include new lines to allow paragraphs
         Managing the corporate LAN infrastructure and the desktop suite of applications for IBM Greece.
         -	Responsible for the LAN environment design and operation and for the central deployment and management of desktop applications suite (i.e., design, development and automation setup for the rollout of golden images across multiple client classes).
-        -	Achievement: Designed and rolled out into production the system and application deployment and configuration infrastructure for the OS/2 system and the suite of corporate desktop applications for IBM Greece.
+        -	Designed and rolled out into production the system and application deployment and configuration infrastructure for the OS/2 system and the suite of corporate desktop applications for IBM Greece.
