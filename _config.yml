@@ -34,14 +34,14 @@ about_content: | # this will include new lines to allow paragraphs
 
     And I love honey.
 
-# Education Section
-# education_title: Education
-
 # Experience Section
-# experience_title: Experience
+experience_title: Experience
+
+# Education Section
+education_title: Education
 
 # Projects Section
-# projects_title: Research projects
+projects_title: Research projects
 
 
 # More Section
