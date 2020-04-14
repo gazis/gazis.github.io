@@ -83,10 +83,10 @@
     job_title: Senior Mobile Architect
     dates: March 2012 - May 2013
     quote: >
-        Establishing internal standards and formalisms for product design and architecture development.
+        Establishing internal standards and formalisms for product design and architecture specification.
     description: | # Include new lines to allow paragraphs
         Working within the architecture group to define and roadmap the future technologies agenda for the platform offerings of AGT.
-        -	Developed the system architecture (in UML notation per TOGAF) for the CityOS, a PaaS concept for a Smart City platform, which was approved at VP level.
+        -	Developed the system architecture (in UML notation and in adoption of TOGAF) for the CityOS, a PaaS concept for a Smart City platform, which was approved at VP level.
 
 -   layout: left
     company: AGT International
@@ -171,7 +171,6 @@
     job_title: Consultant
     dates: January 1996 - May 1997
     quote: >
-        TBD.
     description: | # Include new lines to allow paragraphs
         -	Providing consultancy services to top companies in the Greek IT market (e.g., IBM Greece, National Bank of Greece, etc.) in the area of IT infrastructure rollout and large-scale transitions in IT.
         -	Consulting on the newly rolled out global IT environment and corporate applications of IBM.
@@ -183,8 +182,7 @@
     job_title: Administrator
     dates: September 1994 - December 1995
     quote: >
-        TBD.
     description: | # Include new lines to allow paragraphs
         Managing the corporate LAN infrastructure and the desktop suite of applications for IBM Greece.
-        -	Responsible for the LAN environment design and operation and for the central deployment and management of desktop applications suite (i.e., design, development and automation setup for the rollout of golden images across multiple client classes).
+        -	Responsible for the LAN environment design and operation and for the central deployment and management of desktop applications suite (i.e., design, development and automation setup for the rollout of golden images for multiple client classes).
         -	Designed and rolled out into production the system and application deployment and configuration infrastructure for the OS/2 system and the suite of corporate desktop applications for IBM Greece.
