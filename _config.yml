@@ -1,0 +1,63 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+#
+# Personal information
+#
+name: Evangelos (Vangelis) Gazis
+title: Chief Architect Security Internet of Things (IoT)
+email: gazisvangelis@gmail.com
+website: https://gazis.info
+
+#
+# Social
+#
+twitter_username: gazisvangelis
+github_username:  gazis
+# dribbble_username: gazis
+# facebook_username: gazisvangelis
+# flickr_username: gazisvangelis
+instagram_username: gazisvangelis
+linkedin_username: gazisvangelis
+# pinterest_username: jekyll
+youtube_username: gazisvangelis
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+    My name's Vangelis and I am a seasoned computer science person (I am not really fond of the term "IT"). I have done research in wireless mobile systems (3G, 4G, 5G) and published in top peer-reviewed magazines and journals on the topic of systemic design for adaptable communication systems (e.g. cognitive and adaptive networks). I have worked extensively on software engineering requirements for runtime-adaptable systems and I developed prototypes that enable (a) the dynamic discovery of the features available and achievable for a given system, and (b) the on-demand adaptation of its code during runtime to match a given set of features. Since 2010 I have been active on the Internet of Things (IoT) domain, where I led projects in the areas of Smart Home and Smart Grid, Industrial Cyber Physical Systems (CPS), Big Data, and Data Analytics. Recently I have been focusing more intently on cybersecurity, where I contribute in a senior expert capacity to the assessment of research and development programmes, the development of pan-european best practice recommendations, and the advancement of technical standards, within projects under the auspices of the European Commission, the European Network and Information Security Agency (ENISA), the European Telecommunications Standards Institute (ETSI), and the GSM Association (GSMA).
+
+    And I love honey.
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # Include new lines to allow paragraphs
+    Other interests that I have include:
+    -   Swimming
+    -   Hiking
+    -   Photography
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+plugins:
+-   jekyll-seo-tag

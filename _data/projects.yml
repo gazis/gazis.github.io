@@ -1,0 +1,30 @@
+-   layout: top-middle
+    name: MOBIVAS
+    link: https://cordis.europa.eu/project/id/IST-1999-10206
+    quote: >
+        The objective of MOBIVAS is to define, design, develop and validate an integrated application architecture for downloadable Software Defined Radio (SDR) Value-Added-Services (VAS).
+    description: | # Include new lines to allow paragraphs
+        The overall objective of MOBIVAS is to develop architectural approaches and prototypical implementations of integrated software platforms and systems, adaptable to different network services and technologies, which will open new opportunities for advanced Value Added Service Providers (VASPs). A key objective of MOBIVAS is to develop innovative and modular network components for the seamless and efficient service provision in converging existing network technologies by combining new wireless technologies with TINA/CORBA principles, by applying sophisticated mechanisms in order to support a required Quality of Service and by introducing novel methods for developing innovative network elements while integrating existing technologies, such as GSM, DECT, Wireless LANs with upcoming ones such as GPRS, UMTS.
+        -   Assess a framework for downloadable value added services over different network environments.
+        -   Design and implement a framework to provide efficient management of network resources.
+        -   Design and develop of mechanisms to allow reliable and seamless switching between different wireless/mobile bearer technologies considering the emerging software defined radio technology.
+        -   Specify and implement an integrated software infrastructure on the application layer for enabling means of downloading new, value added application layer services from a VAS Providers' network, interconnected to an Operator, to the end-user mobile stations.
+        -   Develop a framework for charging and billing schemes
+        -   Integrate modules for an experimental platform for trial support, verify, demonstrate the benefits and synergy of the protect outcomes in a field trial and contribute to the relevant standardisation bodies.
+
+-   layout: top-middle
+    name: ANWIRE
+    link: https://cordis.europa.eu/project/id/IST-2001-38835
+    quote: >
+        Establish an academic network on Wireless Internet research in Europe.
+    description: | # Include new lines to allow paragraphs
+        TBD.
+
+-   layout: top-middle
+    name: End-to-End Reconfigurability (E2R)
+    link: hhttps://cordis.europa.eu/project/id/507995
+    quote: >
+        Advance the technology of dynamically reconfigurable radio systems in Europe.
+    description: | # Include new lines to allow paragraphs
+        The End-to-End Reconfigurability (E2R) project aims at bringing full benefits of the valuable diversity within the Radio Eco-Space, composed of wide range of systems such as Cellular, Wireless Local Area and Broadcast. The key objective of the E2R project is to devise, develop and trial architectural design of reconfigurable devices and supporting system functions to offer an expanded set of operational choices to the users, applications and service providers, operators, regulators in the context of heterogeneous mobile radio systems.
+        Innovative Research, development and proof of concept will be sought in end-to-end aspect, stretching from user device all the way up to Internet protocol, and services, and in reconfigurability support, intrinsic functionalities such as management and control, download support, spectrum, regulatory framework and business models. End-to-End reconfigurability systems will provide common platforms and associated execution environment for multiple air interfaces, protocols and applications, which would yield to scalable and reconfigurable infrastructure that optimise resource usage, increased network and equipment capability and versatility by software modifications.

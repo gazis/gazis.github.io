@@ -1,0 +1,37 @@
+-   layout: left
+    name: National and Kapodistrian University of Athens
+    dates: 2010 - 2007
+    qualification: Ph.D. (Informatics)
+    quote: >
+        Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+    description: | # Include new lines to allow paragraphs
+        Thesis: "Generic object-oriented models for the dynamic reconfiguration of protocol stacks in 3G and 4G networks"
+
+        I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
+-   layout: left
+    name: Athens University of Economics and Business
+    dates: 2000 - 2001
+    qualification: M.B.A. (Full Time and Executive)
+    quote: >
+        Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+    description: | # Include new lines to allow paragraphs
+        Thesis: "Network value in the information society"
+
+-   layout: left
+    name: National and Kapodistrian University of Athens
+    dates: 1998 - 1999
+    qualification: M.Sc. (Communication Systems and Networks)
+    quote: >
+        Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+    description: | # Include new lines to allow paragraphs
+        Thesis: “Collision-resilient medium access control techniques for guaranteed access in dynamic wireless mobile ad-hoc networks without coordination”
+
+-   layout: left
+    name: National and Kapodistrian University of Athens
+    dates: 1990 - 1995
+    qualification: B.Sc. (Informatics)
+    quote: >
+        Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+    description: | # Include new lines to allow paragraphs
+        Thesis: “Performance analysis of Asynchronous Transfer Mode (ATM) campus networks”
