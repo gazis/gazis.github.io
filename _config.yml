@@ -8,7 +8,7 @@ favicon: images/favicon.ico
 name: Evangelos (Vangelis) Gazis
 title: Chief Architect Security Internet of Things (IoT)
 email: gazisvangelis@gmail.com
-website: https://gazis.info
+website: https://gazis.github.io
 
 #
 # Social
@@ -28,23 +28,25 @@ youtube_username: gazisvangelis
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-    My name is Vangelis and I am a seasoned computer science person (I am not really fond of the term "IT"). I have done research in wireless mobile systems (<mark>3G</mark>, <mark>4G</mark>, <mark>5G</mark>) and published in top peer-reviewed magazines and journals, particularly in regard to systemic design for adaptable distributed systems (e.g. cognitive networks, adaptable middleware, etc.).
+    My name is Vangelis and I am, for the most part, a computer science person (I am not really fond of the term "IT"). I grew scientifically through research in wireless mobile systems (<mark>3G</mark>, <mark>4G</mark>, <mark>5G</mark>) for which I published in peer-reviewed magazines and journals. I particularly focus on <mark>systems design</mark> for adaptable distributed systems (e.g. cognitive networks, autonomic networks, etc.). These concerns include <mark>design principles</mark> and <mark>design patterns</mark> through which one can develop systems capable of <mark>adaptation</mark> and <mark>agility</mark>.
 
-    I have worked extensively on <mark>software engineering</mark> for <mark>runtime-adaptable software systems</mark>. This work involved the development of algorithms that, given a corpus of capabilities, enable the dynamic discovery of the stacks of features that meet a given set of requirements. Such a dynamic assembly of a system's personality finds applications in a wide range of domains where requirements may change over time (i.e. where technical agility is a must). For instance, in the domain of modern network architectures reliant on virtualization, such as 5G, given the capabilities of a set of protocols, these algorithms enable the discovery of the software layers, including the protocol stack ones, that meet the requirements of a given set of logical interfaces among 5G infrastructure elements. Another part of this work concerned the on-demand adaptation of a system's code during runtime to match a given set of features (e.g. as when a protocol's code must undergo an update during runtime to accommodate a change in requirements).
+    That research lead to extensive work on <mark>software engineering</mark> in support of <mark>adaptable systems</mark> capable of dynamically altering their own behaviour. Key <mark>control aspects</mark> of such adaptable systems include algorithms that, given a corpus of capabilities, enable the <mark>dynamic discovery</mark> of features that meet application requirements. The <mark>dynamic assembly</mark> of a <mark>system's personality</mark> (i.e. set of behaviours) finds applications in a wide range of domains where requirements may change over time. The capacity to dynamically assemble a particular <mark>personality</mark> is a pillar of <mark>technological agility</mark> and an enabler of innovation.
+
+    For instance, in the domain of modern network architectures reliant on virtualization, such as 5G, given the capabilities of the protocols found in the 5G standards, these algorithms enable the discovery of software layers, including the protocol stack ones, that meet the requirements of the logical interfaces among 5G elements. Another enabler is the on-demand adaptation of a system's code during runtime to match a given set of features (e.g. when a protocol's code must undergo an update during runtime to accommodate a change in requirements or to incorporate an urgent security patch).
 
     Since 2010 I have been active on the <mark>Internet of Things</mark> domain, where I led projects in the areas of <mark>Smart Home</mark> and <mark>Smart Grid</mark>, <mark>Industrial Cyber Physical Systems</mark>, <mark>Big Data</mark>, and <mark>Data Analytics</mark>.
 
-    Recently I have been focusing more intently on cybersecurity, where I contribute in a senior leadership capacity to the assessment of research and development programmes, the development of pan-european best practice recommendations, and the advancement of technical standards. This work evolves within initiatives of the <mark>European Commission (EC)</mark>, the <mark>European Network and Information Security Agency (ENISA)</mark>, the <mark>European Telecommunications Standards Institute (ETSI)</mark>, the <mark>GSM Association (GSMA)</mark>, and the <mark>European Cyber Security Organization (ECSO)</mark>.
+    Recently I have been focusing more intently on <mark>cybersecurity</mark>, where I contribute in a senior leadership capacity to the assessment of research and development programmes, the development of pan-european <mark>best practice recommendations</mark>, and the advancement of <mark>technical standards</mark>. This work evolves within initiatives of the <mark>European Commission (EC)</mark>, the <mark>European Network and Information Security Agency (ENISA)</mark>, the <mark>European Telecommunications Standards Institute (ETSI)</mark>, the <mark>GSM Association (GSMA)</mark>, and the <mark>European Cyber Security Organization (ECSO)</mark>.
 
     In terms of thematic areas, I am deeply familiar with <mark>Distributed Systems</mark>, <mark>Systems of Systems</mark>, <mark>System Design</mark>, <mark>Object-Oriented Design and Programming</mark>, <mark>Design Patterns</mark>, <mark>Ontologies</mark>, <mark>Discrete Event Simulation</mark>, <mark>Unified Modelling Language (UML)</mark> and <mark>Matlab</mark>. I am also deeply familiar with <mark>3GPP Systems</mark> (i.e., 3G, 4G, 5G).
 
     When it comes to home projects one does for fun, I usually resort to some ad-hoc mix of <mark>Bash</mark> and <mark>Ansible</mark> over a <mark>Debian</mark> platform.
 
-# Experience Section
-# experience_title: Experience
-
 # Education Section
 # education_title: Education
+
+# Experience Section
+# experience_title: Experience
 
 # Projects Section
 # projects_title: Projects
