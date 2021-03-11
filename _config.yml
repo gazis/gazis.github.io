@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: gazis/gazis.github.io
 favicon: images/favicon.ico
 
 #
@@ -28,34 +28,45 @@ youtube_username: gazisvangelis
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-    My name is Vangelis and I am a seasoned computer science person (I am not really fond of the term "IT"). I have done research in wireless mobile systems (3G, 4G, 5G) and published in top peer-reviewed magazines and journals on the topic of systemic design for adaptable communication systems (e.g. cognitive and adaptive networks). I have worked extensively on software engineering requirements for runtime-adaptable systems and I developed prototypes that enable (a) the dynamic discovery of the features available and achievable for a given system, and (b) the on-demand adaptation of its code during runtime to match a given set of features. Since 2010 I have been active on the <mark>Internet of Things</mark> domain, where I led projects in the areas of <mark>Smart Home</mark> and <mark>Smart Grid</mark>, <mark>Industrial Cyber Physical Systems</mark>, <mark>Big Data</mark>, and <mark>Data Analytics</mark>. Recently I have been focusing more intently on cybersecurity, where I contribute in a senior expert capacity to the assessment of research and development programmes, the development of pan-european best practice recommendations, and the advancement of technical standards, within projects under the auspices of the <mark>European Commission</mark>, the <mark>European Network and Information Security Agency</mark>, the <mark>European Telecommunications Standards Institute</mark>, and the <mark>GSM Association</mark>.
+    My name is Vangelis and I am a seasoned computer science person (I am not really fond of the term "IT"). I have done research in wireless mobile systems (<mark>3G</mark>, <mark>4G</mark>, <mark>5G</mark>) and published in top peer-reviewed magazines and journals, particularly in regard to systemic design for adaptable distributed systems (e.g. cognitive networks, adaptable middleware, etc.).
 
-    In terms of thematic areas, I am most deeply familiar with <mark>Distributed Systems</mark>, <mark>Systems of Systems</mark>, <mark>System Design</mark>, <mark>3GPP Systems</mark>, <mark>Design Patterns</mark>, <mark>Ontologies</mark>, <mark>Discrete Event Simulation</mark>, <mark>UML</mark>, <mark>Matlab</mark>, and <mark>Java</mark>. When it comes to home projects one does for fun, I frequently use <mark>Bash</mark> and <mark>Ansible</mark>.
+    I have worked extensively on <mark>software engineering</mark> for <mark>runtime-adaptable software systems</mark>. This work involved the development of algorithms that, given a corpus of capabilities, enable the dynamic discovery of the stacks of features that meet a given set of requirements. Such a dynamic assembly of a system's personality finds applications in a wide range of domains where requirements may change over time (i.e. where technical agility is a must). For instance, in the domain of modern network architectures reliant on virtualization, such as 5G, given the capabilities of a set of protocols, these algorithms enable the discovery of the software layers, including the protocol stack ones, that meet the requirements of a given set of logical interfaces among 5G infrastructure elements. Another part of this work concerned the on-demand adaptation of a system's code during runtime to match a given set of features (e.g. as when a protocol's code must undergo an update during runtime to accommodate a change in requirements).
 
-    And I love honey.
+    Since 2010 I have been active on the <mark>Internet of Things</mark> domain, where I led projects in the areas of <mark>Smart Home</mark> and <mark>Smart Grid</mark>, <mark>Industrial Cyber Physical Systems</mark>, <mark>Big Data</mark>, and <mark>Data Analytics</mark>.
+
+    Recently I have been focusing more intently on cybersecurity, where I contribute in a senior leadership capacity to the assessment of research and development programmes, the development of pan-european best practice recommendations, and the advancement of technical standards. This work evolves within initiatives of the <mark>European Commission (EC)</mark>, the <mark>European Network and Information Security Agency (ENISA)</mark>, the <mark>European Telecommunications Standards Institute (ETSI)</mark>, the <mark>GSM Association (GSMA)</mark>, and the <mark>European Cyber Security Organization (ECSO)</mark>.
+
+    In terms of thematic areas, I am deeply familiar with <mark>Distributed Systems</mark>, <mark>Systems of Systems</mark>, <mark>System Design</mark>, <mark>Object-Oriented Design and Programming</mark>, <mark>Design Patterns</mark>, <mark>Ontologies</mark>, <mark>Discrete Event Simulation</mark>, <mark>Unified Modelling Language (UML)</mark> and <mark>Matlab</mark>. I am also deeply familiar with <mark>3GPP Systems</mark> (i.e., 3G, 4G, 5G).
+
+    When it comes to home projects one does for fun, I usually resort to some ad-hoc mix of <mark>Bash</mark> and <mark>Ansible</mark> over a <mark>Debian</mark> platform.
 
 # Experience Section
-experience_title: Experience
+# experience_title: Experience
 
 # Education Section
-education_title: Education
+# education_title: Education
 
 # Projects Section
-projects_title: Research projects
-
+# projects_title: Projects
 
 # More Section
 # more_title: A Little More About Me
 more_content: | # Include new lines to allow paragraphs
     Other interests that I have include:
-    -   Swimming
     -   Hiking
-    -   Photography
+    -   Swimming
+    -   Photography (check out my Instagram feed for photos)
 
 # Footer
 footer_show_references: true
 
+#
 # Build settings
+#
+
+#
+# https://github.com/benbalter/jekyll-remote-theme
+#
 remote_theme: sproogen/resume-theme
 
 sass:

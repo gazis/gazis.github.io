@@ -3,8 +3,6 @@
     link: https://www.uoa.gr/
     dates: 2001 - 2007
     qualification: Ph.D. (Informatics)
-    quote: >
-        Officially founded in 1837, the National and Kapodistrian University of Athens is the first University not only of Greece but of the Eastern Mediterranean region.
     description: | # Include new lines to allow paragraphs
         Thesis: "Generic object-oriented models for the dynamic reconfiguration of protocol stacks in 3G and 4G networks"
 
@@ -13,8 +11,6 @@
     link: https://www.aueb.gr/
     dates: 2000 - 2001
     qualification: M.B.A. (Full Time and Executive)
-    quote: >
-        Athens University of Economics and Business (AUEB) is the premier University in Greece in the fields of Business and Economics.
     description: | # Include new lines to allow paragraphs
         Thesis: "Network value in the information society"
 
@@ -23,8 +19,6 @@
     link: https://www.uoa.gr/
     dates: 1998 - 1999
     qualification: M.Sc. (Communication Systems and Networks)
-    quote: >
-        Officially founded in 1837, the National and Kapodistrian University of Athens is the first University not only of Greece but of the Eastern Mediterranean region.
     description: | # Include new lines to allow paragraphs
         Thesis: “Collision-resilient medium access control techniques for guaranteed access in dynamic wireless mobile ad-hoc networks without coordination”
 
@@ -33,7 +27,5 @@
     link: https://www.uoa.gr/
     dates: 1990 - 1995
     qualification: B.Sc. (Informatics)
-    quote: >
-        Officially founded in 1837, the National and Kapodistrian University of Athens is the first University not only of Greece but of the Eastern Mediterranean region.
     description: | # Include new lines to allow paragraphs
         Thesis: “Performance analysis of Asynchronous Transfer Mode (ATM) campus networks”

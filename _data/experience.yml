@@ -4,13 +4,12 @@
     job_title: Chief Architect Security Internet of Things
     dates: April 2017 - Present
     quote: >
-         Thought leadership on the Internet of Things for CxO stakeholders while advancing the cybersecurity roadmap across product, solution, customers, and standards.
+         Thought leadership on the Internet of Things for CxO stakeholders while advancing the cybersecurity roadmap across products, solutions, customers, and standards.
     description: | # Include new lines to allow paragraphs
         Ownership and accountability of the baseline security architecture of the Internet of Things (IoT) Products and Solutions (P&S) of Huawei (global portfolio). Focusing on IoT security in the industrial (Smart Manufacturing), automotive (V2X) and energy (Smart Grid) domains. Technology vision, strategy and roadmap for P&S IoT at the CTO scope level. Ownership of the security ecosystem roadmap strategy. CxO advisory and thought leadership on the IoT security landscape (inclusive of Smart City scenarios). Innovation activities in IoT security jointly with global telecom accounts (e.g. Tier-1 carriers, Tier-1 mobile operators, etc.). Regular collaboration with Tier-1 account partners on global projects. Standardization and certification strategy for the IoT security domain. Lead of technical contributions to global standards (IEEE, ETSI, GSMA, etc.). Advisor to global non-profit think tank on IoT and Smart City topics.
         -   Member of the ENISA IoT Security Expert Group (more details below).
         -   Member of the GSMA IoT Security Project group (delivering the GSMA SAFE industry standard).
-        -   Member of the ETSI TC CYBER (developing cybersecurity and privacy standards in Europe).
-            -   Prime impact on European Standard EN 303 645 for “Cyber Security for Consumer Internet of Things” developed jointly by ETSI and CEN/CENELEC.
+        -   Member of the ETSI TC CYBER (developing cybersecurity and privacy standards in Europe). Key impact on the European Standard <mark>EN 303 645</mark> titled “Cyber Security for Consumer Internet of Things” developed jointly by <mark>ETSI</mark> and <mark>CEN/CENELEC</mark> to apply across all 27 Member States.
         -   Member of the Joint Working Group (JWG) between CEN, CENELEC and ETSI focusing on Cyber Security for Consumer IoT.
         -   Member of the Global Forum on Cybersecurity Expertise (GFCE) Working Group E on Cybersecurity Standards.
         -   Member of the ECSO (European Cyber Security Organization) WG1 (European cyber security certification) and WG6 (Strategic research and innovation agenda).
@@ -47,14 +46,14 @@
     quote: >
         Advancing an IoT platform initiative successfully forward to product commercialization.
     description: | # Include new lines to allow paragraphs
-        Advisor to AGT top management on technology strategy in the area of Machine-to-Machine (M2M) and the Internet of Things (IoT). Leading a technology program for an IoT cloud platform product. Spearheading the advancement of an IoT cloud platform from R&D prototype to product stage. Impacting business strategy on a company level. Securing R&D projects in the Big Data area.
+        Advisor to AGT top management on technology strategy in the area of Machine-to-Machine (M2M) and the Internet of Things (IoT). Leading a technology program for an IoT cloud platform product. Spearheading the advancement of an IoT cloud platform from R&D prototype to product stage. Impacting business strategy on a company level. Securing funds for R&D projects in the Big Data area.
         -	Accountable for the R&D strategy in the Internet of Things (IoT) portfolio of technologies.
         -	Responsible for the scope, differentiators (USP) and market positioning of the AGT IoT Analytics (IOTA) cloud platform (https://www.agtinternational.com/iot-analytics/iot-analytics/).
         -	Market intelligence of M2M/IoT offerings (components, services and platforms), competition analysis (on IoT platforms), technology roadmap and development of R&D plan at tactical and strategic level, Unique Selling Proposition (USP) and value acquisition plan.
         -	C-level review/approval for go-to-market strategy for IOTA platform product leading to a re-positioning of AGT as an IoT Analytics company.
         -	Responsible for the Edge Computing technology program (https://www.agtinternational.com/iot-analytics/iot-analytics/analytics-the-edge) of AGT R&D.
         -	Market analysis of Data Analytics and IoT Analytics offerings, analysis of partner (Cisco) platform plan, technology roadmap and development of R&D plan at tactical level, USP and onboarding strategy for application developer community.
-        -	Edge Computing program for IoT Analytics at the Edge jointly with Cisco.
+        -	Led the Edge Computing program for IoT Analytics at the edge in joint collaboration with Cisco.
         -	Responsible for the end-to-end technology-to-product engineering pipeline (e.g., Agile, SCRUM) and the collaboration with the product architecture team to deliver product outline.
         -	Technology thought leadership and innovation management (Systematic Inventive Thinking methods, e.g., task unification)
         -	Active customer interface and market intelligence (e.g., market analysis, shaping solution and technology portfolio, strategic advisory, cross-unit coordination, etc.).
@@ -68,7 +67,7 @@
     quote: >
         Building an IoT platform initiative through innovation projects jointly with customers.
     description: | # Include new lines to allow paragraphs
-        Leading the transition of technological innovations from the R&D organization to the product organization and into customer projects.  Engaging multiple teams across the value chain (e.g., researchers, research architects, developers, product managers, customer liaisons, business heads, customer delegates, vendor staff, etc.) in end-to-end coherent programs.
+        Leading the transition of technological innovations from the R&D organization to the product organization and into customer projects. Engaging multiple teams across the value chain (e.g., researchers, research architects, developers, product managers, customer liaisons, business heads, customer delegates, vendor staff, etc.) in end-to-end coherent programs. Developing, refining and securing VP approval for innovation management processes.
         -	Accountable for managing technology transfer programs to deliver innovations to AGT products.
         -	Delivered “Data Analytics Architecture” project that spawned the AGT IoT Analytics platform (https://www.agtinternational.com/iot-analytics/iot-analytics/).
         -	Delivered “Integration of Cyber-Security into Smart Grid (SCADA) Substations” project to the AIMS-e product (https://www.agtinternational.com/areas-of-business-2/critical-assets/energy/capabilities/). Direct collaboration with Elenia (http://www.elenia.fi/) customer, a major Smart Grid operator in Finland.
@@ -83,10 +82,10 @@
     job_title: Senior Mobile Architect
     dates: March 2012 - May 2013
     quote: >
-        Establishing internal standards and formalisms for product design and architecture specification.
+        Establishing internal standards and formalisms for product design and architecture development. Introducing notation-compliant design (UML) in the software development organization.
     description: | # Include new lines to allow paragraphs
         Working within the architecture group to define and roadmap the future technologies agenda for the platform offerings of AGT.
-        -	Developed the system architecture (in UML notation and in adoption of TOGAF) for the CityOS, a PaaS concept for a Smart City platform, which was approved at VP level.
+        -	Developed the system architecture (in UML notation per TOGAF) for the CityOS, a PaaS concept for a Smart City platform, which was approved at VP level.
 
 -   layout: left
     company: AGT International
@@ -94,7 +93,7 @@
     job_title: Senior Researcher
     dates: September 2011 - March 2012
     quote: >
-
+        TBD.
     description: | # Include new lines to allow paragraphs
         Working in Smart Home and Data Analytics project in the area of Smart Grid use cases, including regional generation and peer-to-peer energy trading and demand-response. Advancing the pilot portfolio of AGT in Demand Side Management (DSM) applications for the Smart Grid and contributing to Machine-to-Machine (M2M) projects for the Smart Metering Infrastructure (SMI).
         -	Responsible for developing the residential system architecture for the German BMWi Peer Energy Cloud (PEC) project (http://www.peerenergycloud.de/) according to (functional and non-functional) requirements of the Smart Grid. The platform comprised of an IEEE 802.15.4 wireless network segment of sensors recording the mount of energy consumed by residential appliances (e.g., toaster, refrigerator, etc.) and a gateway hosting the data collection and aggregation services along with the data analytics services. The last-mile platform was deployed at the Saarlouis area and several billion data points collected over a 3-year duration. In addition to the data analytics carried out by the gateways, end-to-end global data analytics were applied over all the data, to identify potential segments for Demand Response applications and to propose Demand Smoothing strategies.
@@ -109,7 +108,8 @@
     dates: September 2009 - October 2010
     quote: >
     description: | # Include new lines to allow paragraphs
-        -   Responsible for the undergraduate courses “Object-Oriented Programming”, “System Programming and Software Development Tools” (abstraction, encapsulation, generalization, composition, etc., design patterns, UML notation, etc.) and “Discrete and Symbolic Structures” (basics of logic, propositional logic, predicate logic, proof structures, etc.) at the Department of Electronic and Computer Engineering. Approximately 300 students per course.
+        Adjuct faculty at one of the best technical universities in Greece in the area of computer science. Teaching system design approaches and in particular the application of object-oriented design. Extending the curriculum to introduce deisgn patterns to the student audience.
+        -   Responsible for the undergraduate courses “Object-Oriented Programming”, “System Programming & Software Development Tools” (abstraction, encapsulation, generalization, composition, etc., design patterns, UML notation, etc.) & “Discrete & Symbolic Structures” (basics of logic, propositional logic, predicate logic, proof structures, etc.) at the Department of Electronic & Computer Engineering. Approximately 300 students per course.
         -   Extended and upgraded the course curriculum to include design patterns.
 
 -   layout: left
@@ -119,7 +119,8 @@
     dates: September 2007 - March 2008
     quote: >
     description: | # Include new lines to allow paragraphs
-        -   Responsible for the postgraduate course “Reliability and Performance of Computational and Communication Systems” (probabilistic performance, statistical modeling, failure, recovery and redundancy models, etc.) at the Department of Information and Communication Systems Engineering. Approximately 60 students per course.
+        Adjuct faculty at one of the best universities in Greece in the area of computer security. Teaching system reliability approaches and formalisms to a postgraduate audience.
+        -   Responsible for the postgraduate course “Reliability & Performance of Computational & Communication Systems” (probabilistic performance, statistical modeling, failure, recovery and redundancy models, etc.) at the Department of Information & Communication Systems Engineering. Approximately 60 students per course.
 
 -   layout: left
     company: National and Kapodistrian University of Athens
@@ -128,6 +129,7 @@
     dates: July 2007 - December 2007
     quote: >
     description: | # Include new lines to allow paragraphs
+        Surveying policy approaches on a global level to distille appropriate recommendations on a national level. Editor of a deliverable recommending
         -   Advising the Greek National Regulatory Authority on the nation-wide strategy for the development of broadband infrastructures and network applications.
         -   Edited, developed and published recommendations for a Working Group of the Greek National Regulatory Authority (EETT) addressing the efficient use of broadband in tertiary and higher tranches of the education sector. This work included a review of international experience and a summary of the lessons learnt in Member States of the European Union. The final recommendations were formulated in accordance to specific criteria regarding CAPEX/OPEX concerns.
         -   The recommendation was ratified in Greece by ministerial action in early 2012.
@@ -184,5 +186,5 @@
     quote: >
     description: | # Include new lines to allow paragraphs
         Managing the corporate LAN infrastructure and the desktop suite of applications for IBM Greece.
-        -	Responsible for the LAN environment design and operation and for the central deployment and management of desktop applications suite (i.e., design, development and automation setup for the rollout of golden images for multiple client classes).
+        -	Responsible for the LAN environment design and operation and for the central deployment and management of desktop applications suite (i.e., design, development and automation setup for the rollout of golden images across multiple client classes).
         -	Designed and rolled out into production the system and application deployment and configuration infrastructure for the OS/2 system and the suite of corporate desktop applications for IBM Greece.
