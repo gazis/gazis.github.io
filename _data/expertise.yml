@@ -1,0 +1,24 @@
+-   layout: left
+    company: European Commission Directorate General Mobility and Transport (MOVE)
+    link: https://ec.europa.eu/transport/home_en/
+    job_title: C-ITS PKI Expert Group Member
+    dates: July 2020 - Present
+    quote: >
+        European recommendations on the security policies of intelligent connected mobility.
+    description: | # Include new lines to allow paragraphs
+        Modernising the security policies of the <mark>C-ITS</mark> PKI in light of deployment models.
+        -   Member of the <mark>Editorial Team</mark> of the Expert Group.
+
+-   layout: left
+    company: European Network and Information Security Agency (ENISA)
+    link: https://www.enisa.europa.eu/
+    job_title: IoT Security Expert Group Member
+    dates: May 2017 - Present
+    quote: >
+        European recommendations on cybersecurity best practice for IoT products and services.
+    description: | # Include new lines to allow paragraphs
+        Advising ENISA on IoT security and privacy and contributing to the public deliverables of ENISA listed below. Drafting policy recommendations for ENISA during the IoTSec validation workshop. Participation (by invitation) in the annual joint ENISA-EUROPOL IoT Security Conference.
+        -   Policy recommendations delivered in the <mark>Baseline Security Recommendations for IoT</mark> and associated online tool (2017).
+        -   Policy recommendations delivered in the <mark>Good Practices for Security of Internet of Things in the context of Smart Manufacturing</mark> and associated online tool (2018).
+        -   Policy recommendations delivered in the <mark>Good Practices for Security of IoT Secure Software Development Lifecycle</mark> (2019).
+        -   Policy recommendations delivered in the <mark>Guidelines for Securing the Internet of Things Secure Supply Chain for IoT</mark> (2020).

@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 # Personal information
 #
 name: Evangelos (Vangelis) Gazis
-title: Chief Architect Security Internet of Things (IoT)
+title: BSc, MSc, MBA, PhD
 email: gazisvangelis@gmail.com
 website: https://gazis.github.io
 
@@ -41,15 +41,15 @@ youtube_username: gazisvangelis
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-    My name is Vangelis and I am, for the most part, a computer science person (I am not really fond of the term "IT"). I grew scientifically through research in wireless mobile systems (<mark>3G</mark>, <mark>4G</mark>, <mark>5G</mark>) for which I published in peer-reviewed magazines and journals. I particularly focus on <mark>systems design</mark> for adaptable distributed systems (e.g. cognitive networks, autonomic networks, etc.). These concerns include <mark>design principles</mark> and <mark>design patterns</mark> through which one can develop systems capable of <mark>adaptation</mark> and <mark>agility</mark>.
+    My name is Vangelis and I am, for the most part, a computer science person (I am not really fond of the term "IT"). I grew scientifically through research in wireless mobile systems (<mark>3G</mark>, <mark>4G</mark>, <mark>5G</mark>). I particularly focus on <mark>systems design</mark> for adaptable distributed systems (e.g. cognitive networks, autonomic networks, etc.). These concerns include <mark>design principles</mark> and <mark>design patterns</mark> through which one can develop systems capable of <mark>adaptation</mark> and <mark>agility</mark>.
 
-    That research lead to extensive work on <mark>software engineering</mark> in support of <mark>adaptable systems</mark> capable of dynamically altering their own behaviour. Key <mark>control aspects</mark> of such adaptable systems include algorithms that, given a corpus of capabilities, enable the <mark>dynamic discovery</mark> of features that meet application requirements. The <mark>dynamic assembly</mark> of a <mark>system's personality</mark> (i.e. set of behaviours) finds applications in a wide range of domains where requirements may change over time. The capacity to dynamically assemble a particular <mark>personality</mark> is a pillar of <mark>technological agility</mark> and an enabler of innovation.
+    That research lead to extensive work on <mark>software engineering</mark> in support of <mark>adaptable systems</mark> that can dynamically alter their own behaviour. Key <mark>control aspects</mark> of such adaptable systems include algorithms that, given a corpus of capabilities, enable the <mark>dynamic discovery</mark> of features that meet application requirements. The <mark>dynamic assembly</mark> of a <mark>system's personality</mark> (i.e. set of behaviours) finds applications in a wide range of domains where requirements may change over time. The capacity to dynamically assemble a particular <mark>personality</mark> is a pillar of <mark>technological agility</mark> and an enabler of innovation.
 
-    For instance, in the domain of modern network architectures reliant on virtualization, such as 5G, given the capabilities of the protocols found in the 5G standards, these algorithms enable the discovery of software layers, including the protocol stack ones, that meet the requirements of the logical interfaces among 5G elements. Another enabler is the on-demand adaptation of a system's code during runtime to match a given set of features (e.g. when a protocol's code must undergo an update during runtime to accommodate a change in requirements or to incorporate an urgent security patch).
+    For instance, in the domain of modern network architectures reliant on virtualization, such as 5G, given the capabilities of the protocols found in the 5G standards, these algorithms enable the discovery of software layers, including the protocol stack ones, that meet the requirements of the logical interfaces among 5G elements. Another enabler is the on-demand adaptation of a system's code during runtime to match a given set of features (e.g. when a protocol must undergo an update during runtime to accommodate a change in requirements or to incorporate a security patch for a vulnerability).
 
     Since 2010 I have been active on the <mark>Internet of Things</mark> domain, where I led projects in the areas of <mark>Smart Home</mark> and <mark>Smart Grid</mark>, <mark>Industrial Cyber Physical Systems</mark>, <mark>Big Data</mark>, and <mark>Data Analytics</mark>.
 
-    Recently I have been focusing more intently on <mark>cybersecurity</mark>, where I contribute in a senior leadership capacity to the assessment of R&D programmes, the development of European <mark>best practice recommendations</mark>, and the advancement of <mark>technical standards</mark>. I advance these agendas as a member of these organizations:
+    Recently I have been focusing more intently on <mark>cybersecurity</mark>, where I contribute in a senior leadership capacity to the assessment of R&D programmes, the development of European <mark>best practice recommendations</mark>, and the advancement of <mark>technical standards</mark>. I am particularly interested in <mark>systemic approaches</mark> to <mark>resilience</mark> through the interplay of technological, policy and economic considerations. I advance these agendas as a member of these organizations:
     -   European Network and Information Security Agency <mark>(ENISA)</mark> Expert Group (EG) on IoT Security <mark>(IoTSec)</mark>
     -   European Commission (EC) Directorate General (DG) Mobility <mark>(MOVE)</mark> Expert Group (EG) on <mark>C-ITS PKI</mark>
     -   European Telecommunications Standards Institute <mark>(ETSI)</mark> Technical Committee (TC) on Cybersecurity <mark>(CYBER)</mark>
@@ -61,14 +61,17 @@ about_content: | # this will include new lines to allow paragraphs
         -   WG1 <mark>Cybersecurity Certification</mark>
         -   WG6 <mark>Strategic Research Agenda</mark>
 
-# Education Section
-# education_title: Education
-
 # Experience Section
 # experience_title: Experience
 
+# Expertise Section
+# expertise_title: Expertise
+
+# Education Section
+# education_title: Education
+
 # Projects Section
-# projects_title: Projects
+# projects_title: Research Projects
 
 # More Section
 # more_title: A Little More About Me
