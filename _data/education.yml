@@ -1,12 +1,12 @@
--   layout: left
-    name: National and Kapodistrian University of Athens
+-   layout: right
+    name: National Kapodistrian University of Athens
     link: https://www.uoa.gr/
     dates: 2001 - 2007
     qualification: Ph.D. (Informatics)
     description: | # Include new lines to allow paragraphs
         Thesis: "Generic object-oriented models for the dynamic reconfiguration of protocol stacks in 3G and 4G networks"
 
--   layout: left
+-   layout: right
     name: Athens University of Economics and Business
     link: https://www.aueb.gr/
     dates: 2000 - 2001
@@ -14,16 +14,16 @@
     description: | # Include new lines to allow paragraphs
         Thesis: "Network value in the information society"
 
--   layout: left
-    name: National and Kapodistrian University of Athens
+-   layout: right
+    name: National Kapodistrian University of Athens
     link: https://www.uoa.gr/
     dates: 1998 - 1999
     qualification: M.Sc. (Communication Systems and Networks)
     description: | # Include new lines to allow paragraphs
         Thesis: “Collision-resilient medium access control techniques for guaranteed access in dynamic wireless mobile ad-hoc networks without coordination”
 
--   layout: left
-    name: National and Kapodistrian University of Athens
+-   layout: right
+    name: National Kapodistrian University of Athens
     link: https://www.uoa.gr/
     dates: 1990 - 1995
     qualification: B.Sc. (Informatics)

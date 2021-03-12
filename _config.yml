@@ -11,18 +11,31 @@ email: gazisvangelis@gmail.com
 website: https://gazis.github.io
 
 #
+# Dark Mode (true/false/never)
+#
+darkmode: false
+
+#
 # Social
 #
 twitter_username: gazisvangelis
 github_username:  gazis
+# stackoverflow_username: N/A
 # dribbble_username: gazis
 # facebook_username: gazisvangelis
 # flickr_username: gazisvangelis
 instagram_username: gazisvangelis
 linkedin_username: vangelisgazis
-# pinterest_username: jekyll
+# xing_username: N/A
 youtube_username: gazisvangelis
 # googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: About Me
@@ -36,11 +49,17 @@ about_content: | # this will include new lines to allow paragraphs
 
     Since 2010 I have been active on the <mark>Internet of Things</mark> domain, where I led projects in the areas of <mark>Smart Home</mark> and <mark>Smart Grid</mark>, <mark>Industrial Cyber Physical Systems</mark>, <mark>Big Data</mark>, and <mark>Data Analytics</mark>.
 
-    Recently I have been focusing more intently on <mark>cybersecurity</mark>, where I contribute in a senior leadership capacity to the assessment of research and development programmes, the development of pan-european <mark>best practice recommendations</mark>, and the advancement of <mark>technical standards</mark>. This work evolves within initiatives of the <mark>European Commission (EC)</mark>, the <mark>European Network and Information Security Agency (ENISA)</mark>, the <mark>European Telecommunications Standards Institute (ETSI)</mark>, the <mark>GSM Association (GSMA)</mark>, and the <mark>European Cyber Security Organization (ECSO)</mark>.
-
-    In terms of thematic areas, I am deeply familiar with <mark>Distributed Systems</mark>, <mark>Systems of Systems</mark>, <mark>System Design</mark>, <mark>Object-Oriented Design and Programming</mark>, <mark>Design Patterns</mark>, <mark>Ontologies</mark>, <mark>Discrete Event Simulation</mark>, <mark>Unified Modelling Language (UML)</mark> and <mark>Matlab</mark>. I am also deeply familiar with <mark>3GPP Systems</mark> (i.e., 3G, 4G, 5G).
-
-    When it comes to home projects one does for fun, I usually resort to some ad-hoc mix of <mark>Bash</mark> and <mark>Ansible</mark> over a <mark>Debian</mark> platform.
+    Recently I have been focusing more intently on <mark>cybersecurity</mark>, where I contribute in a senior leadership capacity to the assessment of R&D programmes, the development of European <mark>best practice recommendations</mark>, and the advancement of <mark>technical standards</mark>. I advance these agendas as a member of these organizations:
+    -   European Network and Information Security Agency <mark>(ENISA)</mark> Expert Group (EG) on IoT Security <mark>(IoTSec)</mark>
+    -   European Commission (EC) Directorate General (DG) Mobility <mark>(MOVE)</mark> Expert Group (EG) on <mark>C-ITS PKI</mark>
+    -   European Telecommunications Standards Institute <mark>(ETSI)</mark> Technical Committee (TC) on Cybersecurity <mark>(CYBER)</mark>
+    -   GSM Association <mark>(GSMA)</mark>
+        -   Fraud and Security Architecture Group <mark>(FSAG)</mark>
+        -   Device Security Group <mark>(DSG)</mark>
+        -   IoT SAFE Group <mark>(IOTSAFE)</mark>
+    -   European Cyber Security Organization <mark>(ECSO)</mark>
+        -   WG1 <mark>Cybersecurity Certification</mark>
+        -   WG6 <mark>Strategic Research Agenda</mark>
 
 # Education Section
 # education_title: Education
@@ -77,3 +96,19 @@ sass:
 
 plugins:
 -   jekyll-seo-tag
+
+#
+# Update
+#
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]

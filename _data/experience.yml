@@ -1,32 +1,64 @@
 -   layout: left
     company: Huawei Technologies (CTO Office)
-    link: https://www.huawei.com
+    link: https://www.huawei.com/
     job_title: Chief Architect Security Internet of Things
     dates: April 2017 - Present
     quote: >
-         Thought leadership on the Internet of Things for CxO stakeholders while advancing the cybersecurity roadmap across products, solutions, customers, and standards.
+         Advancing cybersecurity across products, solutions, customers, and standards. Thought leader to the CxO audience.
     description: | # Include new lines to allow paragraphs
-        Ownership and accountability of the baseline security architecture of the Internet of Things (IoT) Products and Solutions (P&S) of Huawei (global portfolio). Focusing on IoT security in the industrial (Smart Manufacturing), automotive (V2X) and energy (Smart Grid) domains. Technology vision, strategy and roadmap for P&S IoT at the CTO scope level. Ownership of the security ecosystem roadmap strategy. CxO advisory and thought leadership on the IoT security landscape (inclusive of Smart City scenarios). Innovation activities in IoT security jointly with global telecom accounts (e.g. Tier-1 carriers, Tier-1 mobile operators, etc.). Regular collaboration with Tier-1 account partners on global projects. Standardization and certification strategy for the IoT security domain. Lead of technical contributions to global standards (IEEE, ETSI, GSMA, etc.). Advisor to global non-profit think tank on IoT and Smart City topics.
-        -   Member of the ENISA IoT Security Expert Group (more details below).
-        -   Member of the GSMA IoT Security Project group (delivering the GSMA SAFE industry standard).
-        -   Member of the ETSI TC CYBER (developing cybersecurity and privacy standards in Europe). Key impact on the European Standard <mark>EN 303 645</mark> titled “Cyber Security for Consumer Internet of Things” developed jointly by <mark>ETSI</mark> and <mark>CEN/CENELEC</mark> to apply across all 27 Member States.
-        -   Member of the Joint Working Group (JWG) between CEN, CENELEC and ETSI focusing on Cyber Security for Consumer IoT.
-        -   Member of the Global Forum on Cybersecurity Expertise (GFCE) Working Group E on Cybersecurity Standards.
-        -   Member of the ECSO (European Cyber Security Organization) WG1 (European cyber security certification) and WG6 (Strategic research and innovation agenda).
-        -   Member of the Global Certification Forum (GCF) delivering alignment to ETSI TC CYBER work in the IoT cybersecurity domain (e.g. EN 303 645).
+        Scope and responsibities:
+        -   Ownership and accountability of the baseline <mark>security architecture</mark> of the Internet of Things (IoT) Products and Solutions (P&S) of Huawei (global portfolio). Focus on IoT security in the industrial (Smart Manufacturing), automotive <mark>(V2X)</mark> and energy (Smart Grid) domains.
+        -   Vision and <mark>technology roadmap</mark> for Internet of Things (IoT) Products and Solutions (P&S) at the CTO office.
+        -   Ownership of the security <mark>ecosystem roadmap</mark> strategy.
+        -   CxO advisory and <mark>thought leadership</mark> on the IoT security landscape (inclusive of Smart City scenarios).
+        -   Innovation activities in IoT security jointly with <mark>global key accounts</mark> (e.g. Tier-1 carriers and Tier-1 mobile operators).
+        -   Standardization and certification <mark>strategy</mark> in IoT security.
+        -   Lead of technical contributions to global standards (ETSI, GSMA, etc.).
+
+        Huawei representation (includes <mark>ad personam</mark> appointments):
+        -   European Network and Information Security Agency <mark>(ENISA)</mark> Expert Group (EG) on IoT Security <mark>(IoTSec)</mark>
+        -   European Commission (EC) Directorate General (DG) Mobility and Transport <mark>(MOVE)</mark> Expert Group (EG) on <mark>C-ITS PKI</mark>
+        -   European Telecommunications Standards Institute <mark>(ETSI)</mark> Technical Committee (TC) on Cybersecurity <mark>(CYBER)</mark>
+        -   GSM Association <mark>(GSMA)</mark>
+            -   Fraud and Security Architecture Group <mark>(FSAG)</mark>
+            -   Device Security Group <mark>(DSG)</mark>
+            -   IoT SAFE Group <mark>(IOTSAFE)</mark>
+        -   European Cyber Security Organization <mark>(ECSO)</mark>
+            -   WG1 <mark>Cybersecurity Certification</mark>
+            -   WG6 <mark>Strategic Research Agenda</mark>
+        -   Joint Working Group <mark>(JWG)</mark> between CEN, CENELEC and ETSI responsible for joint standardisation activities in cybersecurity for IoT.
+
+        Key milestones:
+        -   European Standard <mark>EN 303 645</mark> for “Cyber Security for Consumer Internet of Things” developed jointly by <mark>ETSI</mark> and <mark>CEN/CENELEC</mark> that applies across all 27 Member States.
+        -   Alignment of the Global Certification Forum <mark>(GCF)</mark> to ETSI TC CYBER standard EN 303 645.
+        -   ETSI position on <mark>cybersecurity assessment</mark> under the ex-ante framework of the Radio Equipment Directive <mark>(RED)</mark>.
+
+        External advisories:
+        -   East West Institute <mark>(EWI)</mark> think tank on matters of <mark>5G</mark> and <mark>Smart Cities</mark>.
+
+-   layout: left
+    company: European Commission Directorate General Mobility and Transport (MOVE)
+    link: https://ec.europa.eu/transport/home_en/
+    job_title: C-ITS PKI Expert Group Member
+    dates: July 2020 - Present
+    quote: >
+        European recommendations on cybersecurity best practice for IoT products and services.
+    description: | # Include new lines to allow paragraphs
+        Advising DG MOVE on C-ITS PKI technologies and policy considerations for C-ITS deployment.
 
 -   layout: left
     company: European Network and Information Security Agency (ENISA)
-    link: https://https://www.enisa.europa.eu/
+    link: https://www.enisa.europa.eu/
     job_title: IoT Security Expert Group Member
     dates: May 2017 - Present
     quote: >
-        Advancing European recommendations on cybersecurity best practice for IoT products and services.
+        European recommendations on cybersecurity best practice for IoT products and services.
     description: | # Include new lines to allow paragraphs
-        Advising ENISA on IoT security and privacy and contributing to the public deliverables of ENISA listed below. Drafting policy recommendations for ENISA during the IoTSec validation workshop. Participation (by invitation only) in the annual joint ENISA-EUROPOL IoT Security Conference.
-        -   Policy recommendations delivered in the Baseline Security Recommendations for IoT and associated online tool (2017)
-        -   Policy recommendations delivered in the Good Practices for Security of Internet of Things in the context of Smart Manufacturing and associated online tool (2018)
-        -   Policy recommendations delivered in the Good Practices for Security of IoT Secure Software Development Lifecycle (2019)
+        Advising ENISA on IoT security and privacy and contributing to the public deliverables of ENISA listed below. Drafting policy recommendations for ENISA during the IoTSec validation workshop. Participation (by invitation) in the annual joint ENISA-EUROPOL IoT Security Conference.
+        -   Policy recommendations delivered in the <mark>Baseline Security Recommendations for IoT</mark> and associated online tool (2017)
+        -   Policy recommendations delivered in the <mark>Good Practices for Security of Internet of Things in the context of Smart Manufacturing</mark> and associated online tool (2018).
+        -   Policy recommendations delivered in the <mark>Good Practices for Security of IoT Secure Software Development Lifecycle</mark> (2019).
+        -   Policy recommendations delivered in the <mark>Guidelines for Securing the Internet of Things Secure Supply Chain for IoT</mark> (2020).
 
 -   layout: left
     company: Cognizant Technology Solutions (CTS)
@@ -34,9 +66,17 @@
     job_title: Director Big Data
     dates: June 2016 - March 2017
     quote: >
-        Growing the Big Data customer base through thought leadership and joint innovation.
+        Growing the customer base for Big Data products and services in Germany.
     description: | # Include new lines to allow paragraphs
-        Leader of the Big Data service line and accountable for building up the caliber, expanding the portfolio, delivering excellence, and, expanding the market footprint. Accountable for P&L and Big Data business development. Innovation activities for improving customer capture in the Big Data service line across Cognizant. Thought leadership and customer stewardship through digital transformation initiatives. Lead proposal portfolio across the service set (i.e., advisory, consulting, solution, implementation, operations). Partner alignment and collaboration in go-to-market strategy. Public dissemination and brand awareness initiatives. Activities for customer mindshare development. Delivery coordination across on-shore, near-shore and off-shore delivery centers. Customer engagements across industry sectors with emphasis in the telecommunications, life sciences, manufacturing, transportation and banking sectors.
+        Leader of the Big Data service line and accountable for building up the caliber, expanding the portfolio, delivering excellence, and, expanding the market footprint.
+        -   Accountable for P&L and Big Data business development.
+        -    Innovation activities for improving customer capture in the Big Data service line across Cognizant.
+        -   Thought leadership and customer stewardship through digital transformation initiatives.
+        -   Lead proposal portfolio across the service set (i.e., advisory, consulting, solution, implementation, operations). Partner alignment and collaboration in go-to-market strategy.
+        -   Public dissemination and brand awareness initiatives.
+        -   Activities for customer mindshare development.
+        -   Delivery coordination across on-shore, near-shore and off-shore delivery centers.
+        -   Customer engagements across industry sectors with emphasis in the telecommunications, life sciences, manufacturing, transportation and banking sectors.
 
 -   layout: left
     company: AGT International
@@ -48,10 +88,10 @@
     description: | # Include new lines to allow paragraphs
         Advisor to AGT top management on technology strategy in the area of Machine-to-Machine (M2M) and the Internet of Things (IoT). Leading a technology program for an IoT cloud platform product. Spearheading the advancement of an IoT cloud platform from R&D prototype to product stage. Impacting business strategy on a company level. Securing funds for R&D projects in the Big Data area.
         -	Accountable for the R&D strategy in the Internet of Things (IoT) portfolio of technologies.
-        -	Responsible for the scope, differentiators (USP) and market positioning of the AGT IoT Analytics (IOTA) cloud platform (https://www.agtinternational.com/iot-analytics/iot-analytics/).
+        -	Responsible for the scope, differentiators (USP) and market positioning of the AGT [IoT Analytics (IOTA)](https://www.agtinternational.com/iot-analytics/iot-analytics/) cloud platform.
         -	Market intelligence of M2M/IoT offerings (components, services and platforms), competition analysis (on IoT platforms), technology roadmap and development of R&D plan at tactical and strategic level, Unique Selling Proposition (USP) and value acquisition plan.
         -	C-level review/approval for go-to-market strategy for IOTA platform product leading to a re-positioning of AGT as an IoT Analytics company.
-        -	Responsible for the Edge Computing technology program (https://www.agtinternational.com/iot-analytics/iot-analytics/analytics-the-edge) of AGT R&D.
+        -	Responsible for the [Edge Computing](https://www.agtinternational.com/iot-analytics/iot-analytics/analytics-the-edge) technology program of AGT R&D.
         -	Market analysis of Data Analytics and IoT Analytics offerings, analysis of partner (Cisco) platform plan, technology roadmap and development of R&D plan at tactical level, USP and onboarding strategy for application developer community.
         -	Led the Edge Computing program for IoT Analytics at the edge in joint collaboration with Cisco.
         -	Responsible for the end-to-end technology-to-product engineering pipeline (e.g., Agile, SCRUM) and the collaboration with the product architecture team to deliver product outline.
@@ -67,11 +107,11 @@
     quote: >
         Building an IoT platform initiative through innovation projects jointly with customers.
     description: | # Include new lines to allow paragraphs
-        Leading the transition of technological innovations from the R&D organization to the product organization and into customer projects. Engaging multiple teams across the value chain (e.g., researchers, research architects, developers, product managers, customer liaisons, business heads, customer delegates, vendor staff, etc.) in end-to-end coherent programs. Developing, refining and securing VP approval for innovation management processes.
+        Leading the transition of technological innovations from the R&D organization to the product organization and into customer projects. Engaging multiple teams across the value chain (e.g., researchers, research architects, developers, product managers, customer liaisons, business heads, customer delegates, vendor staff, etc.) in end-to-end programs. Developing, refining and securing VP approval for innovation management processes.
         -	Accountable for managing technology transfer programs to deliver innovations to AGT products.
-        -	Delivered “Data Analytics Architecture” project that spawned the AGT IoT Analytics platform (https://www.agtinternational.com/iot-analytics/iot-analytics/).
-        -	Delivered “Integration of Cyber-Security into Smart Grid (SCADA) Substations” project to the AIMS-e product (https://www.agtinternational.com/areas-of-business-2/critical-assets/energy/capabilities/). Direct collaboration with Elenia (http://www.elenia.fi/) customer, a major Smart Grid operator in Finland.
-        -	Delivered “Acoustic Analytics in Predictive Maintenance at Smart Grid Substations” project to the AIMS-e product (https://www.agtinternational.com/areas-of-business-2/critical-assets/energy/capabilities/). Direct collaboration with Elenia (http://www.elenia.fi/).
+        -	Delivered “Data Analytics Architecture” project that spawned the AGT [IoT Analytics (IOTA)](https://www.agtinternational.com/iot-analytics/iot-analytics/) cloud platform.
+        -	Delivered “Integration of Cyber-Security into Smart Grid (SCADA) Substations” project to the [AIMS-e](https://www.agtinternational.com/areas-of-business-2/critical-assets/energy/capabilities/) product. Direct collaboration with [Elenia](http://www.elenia.fi/) Smart Grid operator in Finland.
+        -	Delivered “Acoustic Analytics in Predictive Maintenance at Smart Grid Substations” project to the [AIMS-e](https://www.agtinternational.com/areas-of-business-2/critical-assets/energy/capabilities/) product. Direct collaboration with [Elenia](http://www.elenia.fi/).
         -	Responsible for working with business units and shaping selective parts of the R&D roadmap to their requirements. Coordination of technology management (e.g., roadmap planning, budgeting, resourcing, etc.) and product roadmap.
         -	Responsible for developing business processes for technology transfer across AGT.
         -	Established Change Management and Risk Management processes; approved at VP level and established to govern technology transfer organization.
@@ -85,7 +125,7 @@
         Establishing internal standards and formalisms for product design and architecture development. Introducing notation-compliant design (UML) in the software development organization.
     description: | # Include new lines to allow paragraphs
         Working within the architecture group to define and roadmap the future technologies agenda for the platform offerings of AGT.
-        -	Developed the system architecture (in UML notation per TOGAF) for the CityOS, a PaaS concept for a Smart City platform, which was approved at VP level.
+        -	System architecture (per TOGAF) for the CityOS PaaS concept of a Smart City platform that was approved at VP level.
 
 -   layout: left
     company: AGT International
@@ -95,8 +135,8 @@
     quote: >
         TBD.
     description: | # Include new lines to allow paragraphs
-        Working in Smart Home and Data Analytics project in the area of Smart Grid use cases, including regional generation and peer-to-peer energy trading and demand-response. Advancing the pilot portfolio of AGT in Demand Side Management (DSM) applications for the Smart Grid and contributing to Machine-to-Machine (M2M) projects for the Smart Metering Infrastructure (SMI).
-        -	Responsible for developing the residential system architecture for the German BMWi Peer Energy Cloud (PEC) project (http://www.peerenergycloud.de/) according to (functional and non-functional) requirements of the Smart Grid. The platform comprised of an IEEE 802.15.4 wireless network segment of sensors recording the mount of energy consumed by residential appliances (e.g., toaster, refrigerator, etc.) and a gateway hosting the data collection and aggregation services along with the data analytics services. The last-mile platform was deployed at the Saarlouis area and several billion data points collected over a 3-year duration. In addition to the data analytics carried out by the gateways, end-to-end global data analytics were applied over all the data, to identify potential segments for Demand Response applications and to propose Demand Smoothing strategies.
+        Advancing Smart Home and Data Analytics projects in the area of Smart Grid. Focus on regional generation aspects and peer-to-peer energy trading in support of demand-response. Advancing the pilot portfolio of AGT in Demand Side Management (DSM) applications for the Smart Grid. Contributing to Machine-to-Machine (M2M) projects for the Smart Metering Infrastructure (SMI).
+        -	Responsible for developing the residential system architecture for the German BMWi [Peer Energy Cloud (PEC)](http://www.peerenergycloud.de/) project according to (functional and non-functional) requirements of the Smart Grid. The platform comprised of an IEEE 802.15.4 wireless network segment of sensors recording the mount of energy consumed by residential appliances (e.g., toaster, refrigerator, etc.) and a gateway hosting the data collection and aggregation services along with the data analytics services. The last-mile platform was deployed at the Saarlouis area and several billion data points collected over a 3-year duration. In addition to the data analytics carried out by the gateways, end-to-end global data analytics were applied over all the data, to identify potential segments for Demand Response applications and to propose Demand Smoothing strategies.
         -	Responsible for evaluating Smart Grid use cases to management for project sign-off.
         -	Lead the platform design and development for the IoT Gateway (to the IEEE 802.15.4 WSN) and the IoT Backend (ESB middleware and SOA parts). These were deployed in the Saarlouis community (approximately 100 residences) to provide Smart Home and Data Analytics services and to integrate with the Smart Grid operator applications.
         -	Responsible for developing and securing IPR material (e.g. patents) for AGT.
