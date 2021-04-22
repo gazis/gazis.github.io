@@ -43,23 +43,27 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
     My name is Vangelis and I am, for the most part, a computer science person (I am not really fond of the term "IT"). I grew scientifically through research in wireless mobile systems (<mark>3G</mark>, <mark>4G</mark>, <mark>5G</mark>). I particularly focus on <mark>systems design</mark> for adaptable distributed systems (e.g. cognitive networks, autonomic networks, etc.). These concerns include <mark>design principles</mark> and <mark>design patterns</mark> through which one can develop systems capable of <mark>adaptation</mark> and <mark>agility</mark>.
 
-    That research lead to extensive work on <mark>software engineering</mark> in support of <mark>adaptable systems</mark> that can dynamically alter their own behaviour. Key <mark>control aspects</mark> of such adaptable systems include algorithms that, given a corpus of capabilities, enable the <mark>dynamic discovery</mark> of features that meet application requirements. The <mark>dynamic assembly</mark> of a <mark>system's personality</mark> (i.e. set of behaviours) finds applications in a wide range of domains where requirements may change over time. The capacity to dynamically assemble a particular <mark>personality</mark> is a pillar of <mark>technological agility</mark> and an enabler of innovation.
-
-    For instance, in the domain of modern network architectures reliant on virtualization, such as 5G, given the capabilities of the protocols found in the 5G standards, these algorithms enable the discovery of software layers, including the protocol stack ones, that meet the requirements of the logical interfaces among 5G elements. Another enabler is the on-demand adaptation of a system's code during runtime to match a given set of features (e.g. when a protocol must undergo an update during runtime to accommodate a change in requirements or to incorporate a security patch for a vulnerability).
+    That research lead to extensive work on <mark>software engineering</mark> in support of <mark>adaptable systems</mark> that can dynamically alter their own behaviour. Key <mark>control aspects</mark> of such adaptable systems include algorithms that, given a corpus of capabilities, enable the <mark>dynamic discovery</mark> of features that meet application requirements. The <mark>dynamic assembly</mark> of a <mark>system's personality</mark> (i.e. set of behaviours) finds applications in a wide range of domains where requirements may change over time. The capacity to dynamically assemble a particular <mark>personality</mark> is a pillar of customization and <mark>operational agility</mark>. For instance, these algorithms enable the on-demand adaptation of a system's code during runtime to match a given set of features (e.g. when a protocol must undergo an update during runtime to accommodate a change in requirements or to incorporate a security patch).
 
     Since 2010 I have been active on the <mark>Internet of Things</mark> domain, where I led projects in the areas of <mark>Smart Home</mark> and <mark>Smart Grid</mark>, <mark>Industrial Cyber Physical Systems</mark>, <mark>Big Data</mark>, and <mark>Data Analytics</mark>.
 
-    Recently I have been focusing more intently on <mark>cybersecurity</mark>, where I contribute in a senior leadership capacity to the assessment of R&D programmes, the development of European <mark>best practice recommendations</mark>, and the advancement of <mark>technical standards</mark>. I am particularly interested in <mark>systemic approaches</mark> to <mark>resilience</mark> through the interplay of technological, policy and economic considerations. I advance these agendas as a member of these organizations:
-    -   European Network and Information Security Agency <mark>(ENISA)</mark> Expert Group (EG) on IoT Security <mark>(IoTSec)</mark>
-    -   European Commission (EC) Directorate General (DG) Mobility <mark>(MOVE)</mark> Expert Group (EG) on <mark>C-ITS PKI</mark>
-    -   European Telecommunications Standards Institute <mark>(ETSI)</mark> Technical Committee (TC) on Cybersecurity <mark>(CYBER)</mark>
-    -   GSM Association <mark>(GSMA)</mark>
-        -   Fraud and Security Architecture Group <mark>(FSAG)</mark>
-        -   Device Security Group <mark>(DSG)</mark>
-        -   IoT SAFE Group <mark>(IOTSAFE)</mark>
-    -   European Cyber Security Organization <mark>(ECSO)</mark>
-        -   WG1 <mark>Cybersecurity Certification</mark>
-        -   WG6 <mark>Strategic Research Agenda</mark>
+    Recently I have been focusing more intently on <mark>cybersecurity</mark>, where I contribute in a senior leadership capacity. Among other activities, this involves the assessment of R&D programmes, the development <mark>best practice recommendations</mark> for ENISA, the advancement of <mark>technical standards</mark>, and joint work with strategic <mark>technology policy</mark> stakeholders. I am particularly interested in <mark>systemic approaches</mark> to <mark>resilience</mark> through the interplay of technological, policy and economic considerations. I advance these agendas as a member of these organizations:
+    -   [European Network and Information Security Agency (ENISA)](https://www.enisa.europa.eu/) Expert Group (EG) on IoT Security (<mark>IoTSec</mark>)
+    -   European Commission (EC) [Directorate General (DG) Mobility and Transport (MOVE)](https://ec.europa.eu/transport/home_en) Expert Group (EG) on <mark>C-ITS PKI</mark>
+    -   European Telecommunications Standards Institute (<mark>ETSI</mark>) [Technical Committee (TC) on Cybersecurity (CYBER)](https://www.etsi.org/committee/cyber)
+    -   European Telecommunications Standards Institute (<mark>ETSI</mark>) [Industry Specification Group (ISG) on Securing Artificial Intelligence (SAI)](https://www.etsi.org/committee/sai)
+    -   [GSM Association (GSMA)](https://www.gsma.com/)
+        -   [Fraud and Security Architecture Group (FSAG)](https://www.gsma.com/aboutus/workinggroups/fraud-security-group)
+        -   Device Security Group (DSG)
+        -   IoT SAFE Group (IOTSAFE)
+    -   [European Cyber Security Organization (ECSO)](https://ecs-org.eu/)
+        -   [WG1 Cybersecurity Certification](https://ecs-org.eu/working-groups/wg1-standardisation-certification-and-supply-chain-management)
+        -   [WG6 Strategic Research Agenda](https://ecs-org.eu/working-groups/wg6-sria-and-cyber-security-technologies)
+    -   Joint Working Group (<mark>JWG</mark>) between <mark>CEN</mark>/<mark>CENELEC</mark> and <mark>ETSI</mark> for joint standardisation activities in cybersecurity for IoT
+
+#
+# See layouts/default.html
+#
 
 # Experience Section
 # experience_title: Experience
@@ -79,7 +83,7 @@ more_content: | # Include new lines to allow paragraphs
     Other interests that I have include:
     -   Hiking
     -   Swimming
-    -   Photography (check out my Instagram feed for photos)
+    -   Photography
 
 # Footer
 footer_show_references: true

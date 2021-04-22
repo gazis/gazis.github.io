@@ -1,0 +1,6 @@
+<div class="container expertise-container">
+  <h3>{{ site.expertise_title | default: "Expertise" }}</h3>
+  {% for expertise in site.data.expertise %}
+    {% include {{ expertise.layout | default: 'left' | append: ".html" }} item=expertise %}
+  {% endfor %}
+</div>
