@@ -17,7 +17,7 @@
     quote: >
         European recommendations on cybersecurity best practice for IoT products and services.
     description: | # Include new lines to allow paragraphs
-        Advising ENISA on IoT security and privacy and contributing to the public deliverables of ENISA listed below. Drafting policy recommendations for ENISA during the IoTSec validation workshop. Participation (by invitation) in the annual joint ENISA-EUROPOL IoT Security Conference.
+        Advising ENISA on <mark>IoT security<mark> and contributing to the projects of ENISA listed below. Define <mark>policy recommendations</mark> for ENISA during the IoTSec validation workshop. Participation (<mark>ad personam</mark>) in the annual joint ENISA-EUROPOL IoT Security Conference.
         -   Policy recommendations delivered in the [Baseline Security Recommendations for IoT](https://www.enisa.europa.eu/publications/baseline-security-recommendations-for-iot) and associated [online tool](https://www.enisa.europa.eu/topics/iot-and-smart-infrastructures/iot/baseline-security-recommendations-for-iot-interactive-tool) (2017).
         -   Policy recommendations delivered in the [Good Practices for Security of Internet of Things in the context of Smart Manufacturing](https://www.enisa.europa.eu/publications/good-practices-for-security-of-iot) and associated [online tool](https://www.enisa.europa.eu/topics/iot-and-smart-infrastructures/iot/good-practices-for-iot-and-smart-infrastructures-tool) (2018).
         -   Policy recommendations delivered in the [Good Practices for Security of IoT Secure Software Development Lifecycle](https://www.enisa.europa.eu/publications/good-practices-for-security-of-iot-1) (2019).

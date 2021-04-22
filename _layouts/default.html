@@ -16,12 +16,13 @@
 
       {%- include about.html -%}
 
-      {%- if site.data.experience.size > 0 -%}
-        {%- include experience.html -%}
-      {%- endif -%}
 
       {%- if site.data.expertise.size > 0 -%}
         {%- include expertise.html -%}
+      {%- endif -%}
+
+      {%- if site.data.experience.size > 0 -%}
+        {%- include experience.html -%}
       {%- endif -%}
 
        {%- if site.data.education.size > 0 -%}
